@@ -12,6 +12,7 @@
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.7",
     "@tinymce/tinymce-react": "^4.3.2",
+    "12megablog": "file:",
     "appwrite": "^13.0.2",
     "caniuse-lite": "^1.0.30001695",
     "html-react-parser": "^4.2.10",
