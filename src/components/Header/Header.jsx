@@ -16,7 +16,7 @@ function Header() {
   ];
 
   return (
-    <header className="bg-red-800 text-white shadow-md sticky top-0 z-50">
+    <header className="bg-red-600 text-white sticky top-0 z-50">
       <Container>
         <nav className="flex items-center justify-between py-4">
           {/* Logo */}
